@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Application:** FinArchive
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-22
 
 ## In one paragraph
 
@@ -24,15 +24,23 @@ open-banking provider for this application.
 Only data belonging to accounts the author has personally and explicitly linked:
 
 - account identifiers, names, currencies and balances
-- transaction records — dates, amounts, counterparty names and the payment
-  reference text the institution itself supplies
+- transaction records — dates, amounts, and the counterparty details the
+  institution itself supplies, which include the other party's name and, where
+  the institution states it, their account identifier
 - documents the institution makes available to its own account holder, such as
   statements and settlement notes
 
-No data about any other person is collected. Where a counterparty name appears
-inside a transaction, it is present because the institution wrote it into the
-record of the author's own account; it is neither enriched, looked up, nor
-combined with anything else.
+No personal data is gathered about anyone from any source other than the
+author's own bank statements. Where another party's name or account identifier
+appears, it is present only because the institution wrote it into the record of
+the author's own account, as every bank statement has always done. It is not
+enriched, looked up, cross-referenced, or combined with anything else, and it is
+used for one purpose: recognising which of the author's own accounts a transfer
+went to, and telling one payment apart from another.
+
+A great many of those counterparties are the author's own other accounts. The
+rest are the shops, employers, insurers and public bodies that appear on any
+current account.
 
 ## Where the data goes
 
@@ -80,9 +88,14 @@ export, correct or delete any of it at any time, without asking anyone.
 
 ## Your rights
 
-If you are reading this and are not the author, then none of your personal data
-is held by this application, and there is nothing for you to request. If you
-believe otherwise, use the contact route above.
+If you are reading this and are not the author, the only way this application
+could hold anything about you is that you sent the author money or were sent
+money by them, in which case it holds what their own bank statement says about
+that payment — the same record their bank has kept regardless. Nothing is
+gathered about you from anywhere else, and nothing is shared with anyone.
+
+If you want to know what that record contains, or want it erased, use the
+contact route above.
 
 ## Changes
 
